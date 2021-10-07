@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Blog and Stories"
 name                     : "Ucchwas Talukder Utsha"
 description              : "Programming and Algorithm Blog."
-url                      : "https://tmuttaqueen.github.io"
+url                      : "https://ucchwas.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://ucchwas.github.io/ucc/"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -82,7 +82,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               : 't.muttaqueen'
+  username               : 'https://www.facebook.com/ucchwas/'
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/ucc.jpeg"
