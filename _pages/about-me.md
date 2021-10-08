@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-excerpt: "I am a software engineer. Did competitive programming in undergraduate."
+excerpt: "I am a software engineer."
 last_modified_at: 2021-07-17T10:00:00+06:00
 toc: true
 toc_label: "Contents"
