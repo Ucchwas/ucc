@@ -15,5 +15,5 @@ I gained my first major research experience during my undergraduate thesis under
 {: style="text-align: justify;"}
 
 ## Resume
-For more details take a brief look in my [resume]({{ site.url }}{{ site.baseurl }}/assets/files/Tanveer Muttaqueen Resume.pdf).
+For more details take a brief look in my [resume]({{ site.url }}{{ site.baseurl }}/assets/files/RESUME_UCCHWAS_TALUKDER_UTSHA.pdf).
 {: style="text-align: justify;"}
